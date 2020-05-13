@@ -1,4 +1,4 @@
 # Spotwelder
 Arduino spot welder controller / solid state relay
 See the article:
-http://www.avdweb.nl/arduino/hardware-interfacing/spot-welder-controller.html
+https://www.avdweb.nl/popular/spotwelder/spot-welder-controller-with-tft-display
